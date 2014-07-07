@@ -1,0 +1,118 @@
+1030445227|37.5356992|-122.0000941|{"name":"BevMo","addr:street":"Mowry Avenue"}
+1030446601|37.5505522|-121.9861500|{"amenity":"restaurant"}
+1030446899|37.5481568|-121.9882579|{"amenity":"fuel"}
+1040647883|37.5362491|-121.9659138|{"name":"L'Amour"}
+1374387811|37.5456247|-121.9807982|{"addr:postcode":"94538","amenity":"dentist","addr:street":"Fremont Boulevard","addr:city":"Fremont","addr:housenumber":"39470"}
+1374388682|37.5456871|-121.9807491|{"addr:postcode":"94538","name":"The Body Klinique Day Spa & salon","addr:street":"Fremont Boulevard","addr:city":"Fremont","addr:housenumber":"39474"}
+1374388947|37.5457287|-121.9807097|{"addr:postcode":"94538","name":"Sunshine Mart","addr:street":"Fremont Boulevard","addr:city":"Fremont"}
+1374389023|37.5457495|-121.9806475|{"addr:postcode":"94538","amenity":"check_cashing","addr:street":"Fremont Boulevard","addr:city":"Fremont","addr:housenumber":"39478"}
+1374389092|37.5457521|-121.9805852|{"addr:postcode":"94538","name":"Saving Cleaners","addr:street":"Fremont Boulevard","addr:city":"Fremont","addr:housenumber":"39480"}
+1374390358|37.5457287|-121.9805000|{"addr:postcode":"94538","name":"Photo Perfect Studio","addr:street":"Fremont Boulevard","addr:city":"Fremont","addr:housenumber":"39482"}
+1374392506|37.5456982|-121.9804113|{"addr:postcode":"94538","cuisine":"chinese","amenity":"restaurant","addr:street":"Fremont Boulevard","addr:city":"Fremont","addr:housenumber":"39486"}
+1374393720|37.5456634|-121.9803365|{"addr:postcode":"94538","cuisine":"pizza","amenity":"restaurant","addr:street":"Fremont Boulevard","addr:city":"Fremont","addr:housenumber":"39490"}
+1374394939|37.5456389|-121.9802747|{"addr:postcode":"94538","name":"ProVision Optometry","addr:street":"Fremont Boulevard","addr:city":"Fremont","addr:housenumber":"39492"}
+1374395320|37.5456131|-121.9802259|{"amenity":"fast_food","addr:street":"sundale","addr:housenumber":"39494"}
+1378124303|37.5497680|-121.9908961|{"access":"no"}
+150950777|37.5482697|-121.9885719|{"is_in:continent":"North America","import_uuid":"bb7269ee-502a-5391-8056-e3ce0e66489c","gnis:ST_alpha":"CA","name":"Fremont","is_in:country":"USA","is_in":"Alameda County,California,Calif.,CA,USA","gnis:ST_num":"06","gnis:County_num":"001","place":"city","census:population":"201691;2006","gnis:County":"Alameda","gnis:Class":"Populated Place","gnis:id":"277521","ele":"17"}
+1540259165|37.5498568|-121.9861788|{"name":"Supercuts"}
+1540268475|37.5487473|-121.9870383|{"amenity":"cafe"}
+1540268481|37.5486569|-121.9878100|{"amenity":"fast_food"}
+1540268485|37.5486621|-121.9871286|{"amenity":"fast_food"}
+1540270548|37.5485377|-121.9868684|{"name":"AT&T"}
+1951352437|37.5467540|-121.9875460|{"name":"RadioShack"}
+1951392179|37.5462490|-121.9878180|{"name":"The Children's Place"}
+1951396372|37.5460780|-121.9872870|{"cuisine":"vietnamese","amenity":"restaurant"}
+1951402089|37.5455210|-121.9873180|{"name":"Bed Bath & Beyond"}
+1951404610|37.5457093|-121.9866602|{"phone":"510-739-6666","name":"Little Scissors","addr:housenumber":"241"}
+1951408274|37.5450375|-121.9851170|{"name":"Target"}
+1963996922|37.5452360|-121.9865900|{"name":"Cost Plus World Market"}
+1963997096|37.5450220|-121.9862100|{"name":"Marshalls"}
+2000415411|37.5482002|-121.9655838|{"access":"private"}
+2000444049|37.5486800|-121.9672718|{"amenity":"toilets"}
+2001696859|37.5475211|-121.9684701|{"access":"public"}
+2001818128|37.5522855|-121.9797997|{"atm":"yes","amenity":"bank"}
+2001880144|37.5497967|-121.9868826|{"name":"Big 5"}
+2001881578|37.5489907|-121.9868833|{"name":"Sprouts Farmers Market"}
+2001881579|37.5488217|-121.9870834|{"amenity":"cafe"}
+2014597913|37.5494060|-121.9658194|{"name":"9 tables","amenity":"bbq","fireplace":"yes","covered":"no"}
+2014597979|37.5491320|-121.9658700|{"information":"board"}
+2014598127|37.5490471|-121.9653931|{"amenity":"bench"}
+2014598165|37.5489312|-121.9652399|{"amenity":"bench"}
+2014598911|37.5479250|-121.9652800|{"bicycle_parking":"front_wheel","capacity":"6","amenity":"bicycle_parking","access":"yes","covered":"no"}
+2024225170|37.5481784|-121.9653870|{"amenity":"toilets"}
+2024225174|37.5480960|-121.9653470|{"amenity":"community_centre","addr:street":"Paseo Padre Parkway","addr:city":"Fremont","addr:housenumber":"40000"}
+2289303101|37.5412915|-121.9733020|{"name":"Andy's Valero","brand":"Valero","amenity":"fuel"}
+2289304318|37.5482415|-121.9716327|{"name":"Chevron","brand":"Chevron","amenity":"fuel"}
+2397939624|37.5520039|-121.9697879|{"barrier":"gate","horse":"no","motorcar":"yes"}
+2433132076|37.5487050|-121.9673390|{"amenity":"drinking_water"}
+2439445152|37.5506291|-121.9930651|{"addr:postcode":"94536","building":"house","addr:street":"Hemingway Common","addr:city":"Fremont","addr:housenumber":"4010"}
+2467265661|37.5501681|-121.9657018|{"name":"Civic Center Bay"}
+2491840109|37.5440912|-121.9875021|{"amenity":"pub"}
+2496439054|37.5476537|-121.9889248|{"public_transport":"platform","highway":"bus_stop","bench":"yes","covered":"yes"}
+2496439058|37.5482010|-121.9889484|{"public_transport":"platform","highway":"bus_stop","bench":"yes","note":"242; 251","covered":"yes"}
+2496439060|37.5495268|-121.9873823|{"public_transport":"platform","highway":"bus_stop","bench":"yes","note":"212; 216; 242; 251; 350;","covered":"yes"}
+2496439063|37.5506200|-121.9869705|{"highway":"bus_stop","note":"216; 242; 351; 350;"}
+2496439065|37.5512988|-121.9859623|{"public_transport":"platform","highway":"bus_stop","bench":"no","covered":"no"}
+2498038115|37.5473842|-121.9669258|{"amenity":"bbq"}
+2501826700|37.5488869|-121.9689353|{"bicycle_parking":"stands","capacity":"4","amenity":"bicycle_parking","covered":"no"}
+2502357184|37.5360192|-121.9655853|{"cuisine":"indian","name":"Tandoori-n-Curry","amenity":"restaurant"}
+2502433257|37.5335772|-121.9676751|{"highway":"bus_stop","note":"239; 350"}
+2502433258|37.5337077|-121.9679071|{"highway":"bus_stop","note":"239; 350"}
+2502433259|37.5356931|-121.9659392|{"highway":"bus_stop","note":"239; 350"}
+2502433260|37.5360999|-121.9659633|{"highway":"bus_stop","note":"239; 350"}
+2502436850|37.5392547|-121.9702165|{"highway":"bus_stop","note":"210; 212; 350"}
+2502436851|37.5401874|-121.9724249|{"highway":"bus_stop","note":"210; 212; 350"}
+2502436852|37.5437179|-121.9731493|{"highway":"bus_stop","note":"242; 333"}
+2502436853|37.5438705|-121.9727971|{"highway":"bus_stop","note":"242; 333"}
+2502436854|37.5466992|-121.9721845|{"highway":"bus_stop","note":"242; 333"}
+2502436855|37.5506920|-121.9720689|{"highway":"bus_stop","note":"242; 333"}
+2502436856|37.5517200|-121.9721338|{"highway":"bus_stop","note":"181"}
+2502436857|37.5521989|-121.9721218|{"public_transport":"platform","highway":"bus_stop","note":"242; 333"}
+2502436858|37.5524606|-121.9720826|{"highway":"bus_stop","note":"120; 140; 180; 181; 242; 333"}
+2509670572|37.5458413|-121.9860824|{"name":"Pier 1 Imports","opening_hours":"Mo-Sa 10:00-21:00; Su 11:00-19:00","addr:housenumber":"39198"}
+2509670580|37.5459505|-121.9862916|{"name":"Hallmark","opening_hours":"Mo-Fr 10:00-21:00; Sa 10:00-19:00; Su 11:00-18:00","addr:housenumber":"39180"}
+2509675399|37.5457903|-121.9863775|{"name":"USPS","amenity":"post_office"}
+2509680874|37.5460797|-121.9862986|{"name":"Sleep Train","opening_hours":"Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 10:00-19:00","addr:housenumber":"39166"}
+2509686594|37.5457173|-121.9870137|{"name":"Murasaki","note":"Custom made futon covers and eddings with Japanese print. Futon, frames, tatami and authentic Japanese gifts","opening_hours":"Mo-Sa 11:00-19:00; Su 11:00-18:00","addr:housenumber":"61"}
+2509691338|37.5454722|-121.9872236|{"cuisine":"japanese","name":"Sushi Harbor","amenity":"restaurant","addr:housenumber":"81"}
+2509780648|37.5459859|-121.9665624|{"public_transport":"platform","highway":"bus_stop","bench":"yes","note":"239"}
+2511149677|37.5528195|-121.9769759|{"highway":"bus_stop","note":"251"}
+2511170667|37.5344002|-121.9997567|{"highway":"bus_stop"}
+2511170668|37.5384918|-121.9964510|{"highway":"bus_stop"}
+2511170669|37.5428692|-121.9928707|{"highway":"bus_stop"}
+2511170670|37.5459977|-121.9902847|{"highway":"bus_stop"}
+2514707810|37.5475211|-121.9869680|{"name":"AT&T"}
+2519417151|37.5485867|-121.9869698|{"cuisine":"thai","amenity":"restaurant"}
+2558916211|37.5455382|-121.9872976|{"name":"Bed Bath & Beyond"}
+2610352798|37.5509556|-121.9836544|{"fee":"yes","capacity":"4","amenity":"bicycle_parking"}
+2621839539|37.5472035|-121.9656345|{"information":"board"}
+2621839550|37.5467585|-121.9655232|{"information":"board"}
+2621843419|37.5470097|-121.9664649|{"amenity":"bbq"}
+2676524399|37.5502186|-121.9800952|{"cuisine":"indian","amenity":"restaurant"}
+340332522|37.5640715|-121.9785813|{"highway":"traffic_signals"}
+358762436|37.5407700|-121.9849607|{"gnis:created":"06\/14\/2000","gnis:county_id":"001","gnis:feature_id":"219832","amenity":"school","gnis:state_id":"06","ele":"14"}
+358765029|37.5427142|-121.9660711|{"gnis:created":"06\/14\/2000","gnis:county_id":"001","gnis:feature_id":"222748","amenity":"school","gnis:state_id":"06","ele":"19"}
+358770064|37.5457699|-121.9982944|{"gnis:created":"06\/14\/2000","gnis:county_id":"001","gnis:feature_id":"227989","amenity":"school","gnis:state_id":"06","ele":"14"}
+358771344|37.5382702|-121.9907942|{"gnis:created":"06\/14\/2000","gnis:county_id":"001","gnis:feature_id":"229218","amenity":"school","gnis:state_id":"06","ele":"13"}
+358819518|37.5355941|-121.9834631|{"gnis:created":"05\/08\/1996","gnis:county_id":"001","leisure":"park","gnis:feature_id":"1692905","gnis:state_id":"06","ele":"13"}
+368168732|37.5447222|-121.9908333|{"gnis:reviewed":"no","name":"Fremont Fire Station 1","gnis:county_name":"Alameda","gnis:feature_id":"2107482","amenity":"fire_station","addr:state":"CA","gnis:import_uuid":"57871b70-0100-4405-bb30-88b2e001a944","ele":"15"}
+368171051|37.5507695|-121.9769048|{"gnis:reviewed":"no","name":"South Alameda County Hall of Justice","gnis:county_name":"Alameda","gnis:feature_id":"1692941","amenity":"public_building","addr:state":"CA","gnis:import_uuid":"57871b70-0100-4405-bb30-88b2e001a944","ele":"18"}
+369169010|37.5480676|-121.9795856|{"aeroway":"helipad","gnis:feature_type":"Airport","gnis:created":"03\/01\/1994","name":"First Interstate Bank Operations Center Heliport","gnis:county_name":"Alameda","faa_id":"CL05","gnis:feature_id":"1653464","addr:state":"CA","ele":"17"}
+442814017|37.5531114|-121.9637773|{"barrier":"stile","bicycle":"yes"}
+443197736|37.5466264|-121.9673844|{"access":"public"}
+555909559|37.5347269|-122.0005296|{"amenity":"fast_food"}
+571818128|37.5450509|-122.0037993|{"name":"Meyer Pool","addr:street":"Glenmoor Dr","addr:housenumber":"38225"}
+571819416|37.5448770|-122.0029331|{"leisure":"park","addr:street":"Glenmoor Dr","addr:housenumber":"38225 - 38299"}
+571825015|37.5335045|-122.0002042|{"name":"Denny's","amenity":"restaurant","addr:street":"Mowry Ave","addr:housenumber":"5280"}
+571829014|37.5353296|-121.9997164|{"amenity":"bank","addr:street":"Mowry Ave","addr:housenumber":"5191"}
+571834905|37.5368140|-121.9985400|{"description":"Gas\/Car Wash","amenity":"fuel","addr:street":"Mowry Ave","addr:housenumber":"4995"}
+571835973|37.5366441|-121.9997057|{"amenity":"restaurant","addr:street":"Mowry Ave","addr:housenumber":"5035"}
+571837074|37.5348956|-121.9982626|{"amenity":"cafe","addr:street":"Mowry Avenue","addr:housenumber":"5034"}
+571840777|37.5352530|-121.9979729|{"amenity":"restaurant","addr:street":"Mowry Avenue","addr:housenumber":"5026"}
+577030467|37.5346750|-121.9960497|{"amenity":"fast_food"}
+577031675|37.5362489|-121.9989416|{"amenity":"cafe"}
+577032914|37.5340062|-122.0012834|{"name":"7-Eleven"}
+589522730|37.5511653|-121.9806581|{"cuisine":"thai","amenity":"restaurant"}
+951016161|37.5465112|-121.9850702|{"cuisine":"american","name":"Elephant Bar","amenity":"restaurant","addr:street":"Fremont Boulevard","addr:housenumber":"39233"}
+968430791|37.5470406|-121.9861057|{"cuisine":"indian","name":"Chili's","amenity":"restaurant"}
+984077415|37.5347405|-121.9976697|{"name":"Lucky","addr:street":"Mowry Avenue"}
