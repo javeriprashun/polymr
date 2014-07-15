@@ -7,7 +7,7 @@ import java.io.IOException;
 import org.apache.hadoop.io.Writable;
 import org.apache.hadoop.io.WritableUtils;
 
-public class PoiCleanserTuple implements Writable{
+public class PoiParserOutTuple implements Writable{
 
 	private String id;
 	private String lat;

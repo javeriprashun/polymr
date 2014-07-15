@@ -23,7 +23,7 @@ Yields one 'node', The hadoop key here will be the position
 in the underlying input stream and the values will be the raw xml of a record as text.
 */
 
-public class PoiCleanserInput extends TextInputFormat {
+public class PoiParserrInput extends TextInputFormat {
 	
 	public static final String START_TAG_KEY = "xmlinput.start";
     public static final String END_TAG_KEY = "xmlinput.end";

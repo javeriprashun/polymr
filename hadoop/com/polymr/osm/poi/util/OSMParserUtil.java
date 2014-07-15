@@ -11,7 +11,7 @@ import org.w3c.dom.NamedNodeMap;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 
-import com.polymr.osm.poi.writables.PoiCleanserTuple;
+import com.polymr.osm.poi.writables.PoiParserOutTuple;
 
 public class OSMParserUtil {
 
@@ -24,16 +24,16 @@ public class OSMParserUtil {
 	private static final String EMPTY_BRACKETS = "{}";
 
 	@SuppressWarnings("nls")
-	public static List<PoiCleanserTuple> getNodes(Document xmlDocument) {
+	public static List<PoiParserOutTuple> getNodes(Document xmlDocument) {
 
-		List<PoiCleanserTuple> pointOfInterestTupleList = new ArrayList<PoiCleanserTuple>();
+		List<PoiParserOutTuple> pointOfInterestTupleList = new ArrayList<PoiParserOutTuple>();
 
 		Node osmRoot = xmlDocument.getFirstChild();
 		NodeList osmXMLNodes = osmRoot.getChildNodes();
 		for (int i = 1; i < osmXMLNodes.getLength(); i++) {
 			Node item = osmXMLNodes.item(i);
 			if (item.getNodeName().equals(NODE)) {
-				PoiCleanserTuple pointOfInterestTuple = new PoiCleanserTuple();
+				PoiParserOutTuple pointOfInterestTuple = new PoiParserOutTuple();
 				NamedNodeMap attributes = item.getAttributes();
 				NodeList tagXMLNodes = item.getChildNodes();
 				Map<String, String> tags = new HashMap<String, String>();

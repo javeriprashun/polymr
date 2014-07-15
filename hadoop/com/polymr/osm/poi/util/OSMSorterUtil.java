@@ -9,28 +9,53 @@ import com.polymr.osm.poi.common.PoiConstants;
 
 public class OSMSorterUtil {
 
-	public static void getRestaurants( JSONObject json,MultipleOutputs< Text, NullWritable> mos){
-		 String str=json.toString();
+	public static void getRestaurants(JSONObject json,
+			MultipleOutputs<Text, NullWritable> mos) {
+		String str = json.toString();
 
-		 try{
+		try {
 
-		 if( json.has(PoiConstants.AMENITIES) ){
-			 if(json.get(PoiConstants.AMENITIES).equals(PoiConstants.RESTURANT))
-			 {
-			 mos.write(PoiConstants.RESTURANT,new Text(str), NullWritable.get());
-			 }
-			 if(json.get(PoiConstants.AMENITIES).equals(PoiConstants.FAST_FOOD_RESTURANT))
-			 {
-			 mos.write(PoiConstants.RESTURANT,new Text(str), NullWritable.get());
-			 }
-			 if(json.get(PoiConstants.AMENITIES).equals(PoiConstants.CAFE))
-			 {
-			 mos.write(PoiConstants.RESTURANT,new Text(str), NullWritable.get());
-			 }
-		 }
-	  }
-		 catch(Exception e){
-			 e.printStackTrace();
-		 }
+			if (json.has(PoiConstants.RESTURANT)) {
+					mos.write(PoiConstants.RESTURANT, new Text(str),NullWritable.get());
+			}
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
 	}
+
+	public static void getBanks(JSONObject json,MultipleOutputs<Text, NullWritable> mos) {
+		String str = json.toString();
+
+		try {
+			if (json.has(PoiConstants.BANK)) {
+					mos.write(PoiConstants.BANK, new Text(str),NullWritable.get());
+			}
+		} catch (Exception e) {
+			e.getStackTrace();
+		}
+	}
+	public static void getGrocery(JSONObject json,MultipleOutputs<Text, NullWritable> mos) {
+		String str = json.toString();
+
+		try {
+			if (json.has(PoiConstants.GROCERY)|json.has(PoiConstants.GREEN_GROCER)) {
+				mos.write(PoiConstants.GROCERY, new Text(str),NullWritable.get());
+			}
+		} catch (Exception e) {
+			e.getStackTrace();
+		}
+	}
+	public static void getDepartmentStore(JSONObject json,MultipleOutputs<Text, NullWritable> mos) {
+		String str = json.toString();
+
+		try {
+			if (json.has(PoiConstants.DEPARTMENT_STORE )) {
+				mos.write(PoiConstants.DEPARTMENTSTORE , new Text(str),NullWritable.get());
+			}
+		} catch (Exception e) {
+			e.getStackTrace();
+		}
+	}
+	
+	//department_store
 }

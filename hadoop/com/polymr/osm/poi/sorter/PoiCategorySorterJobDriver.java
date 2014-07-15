@@ -1,4 +1,4 @@
-package com.polymr.osm.poi.jobs.binning;
+package com.polymr.osm.poi.sorter;
 
 import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.io.Text;
@@ -40,6 +40,9 @@ public class PoiCategorySorterJobDriver {
 	    job.setOutputValueClass(NullWritable.class);
 
 	    MultipleOutputs.addNamedOutput(job,PoiConstants.RESTURANT,TextOutputFormat.class, Text.class, NullWritable.class);
+	    MultipleOutputs.addNamedOutput(job,PoiConstants.BANK,TextOutputFormat.class, Text.class, NullWritable.class);
+	    MultipleOutputs.addNamedOutput(job,PoiConstants.GROCERY,TextOutputFormat.class, Text.class, NullWritable.class);
+	    MultipleOutputs.addNamedOutput(job,PoiConstants.DEPARTMENTSTORE,TextOutputFormat.class, Text.class, NullWritable.class);
 	    
         MultipleOutputs.setCountersEnabled(job, true);
         
